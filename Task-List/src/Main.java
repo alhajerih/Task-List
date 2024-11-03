@@ -14,6 +14,8 @@ public class Main {
         playlist.add("Codey");
         playlist.remove(2);
 
+        
+        //for each loop
         for (String play:playlist) System.out.println(play);
 
         //for loop to print much time to the array size
