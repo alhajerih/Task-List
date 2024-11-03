@@ -18,7 +18,7 @@ public class Main {
 
         //for loop to print much time to the array size
         for(int i = 0; i<playlist.size();i++){
-            System.out.println(playlist);
+            System.out.println(playlist.get(i));
         }
 
 
